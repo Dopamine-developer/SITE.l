@@ -1,0 +1,122 @@
+{
+  "siteTitle": "Our Little Story",
+  "introTitle": "Hey, you. Remember us?",
+  "introText": "Ten little questions. The tiny moments, the silly words, the things that somehow became our story.",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "That little fight in our story… what do you remember about it?",
+      "options": [
+        "[Edit with what the fight was about]",
+        "[Edit detail]",
+        "[Edit detail]",
+        "[Edit detail]"
+      ],
+      "correctIndex": 0,
+      "placeholder": true,
+      "note": "The conversation confirms there was a small fight, but not what it was about. Edit this before deployment."
+    },
+    {
+      "id": "q2",
+      "text": "What did you call me in that sweet little moment? 🥹",
+      "options": [
+        "Meethe",
+        "Hero",
+        "Mr. Serious",
+        "[Edit option]"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "text": "And what did I say back? 😭",
+      "options": [
+        "Khayegi kya?",
+        "Kya hua?",
+        "Achha ji",
+        "[Edit option]"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q4",
+      "text": "What were our friends doing around that moment?",
+      "options": [
+        "Playing a game",
+        "Watching a film",
+        "Taking a class",
+        "[Edit option]"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q5",
+      "text": "Who made the proposal in our story?",
+      "options": [
+        "Me",
+        "You",
+        "We both at the same time",
+        "[Edit if needed]"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q6",
+      "text": "What date did you ask me to wait until? 💌",
+      "options": [
+        "22 July",
+        "14 February",
+        "1 January",
+        "[Edit option]"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q7",
+      "text": "Which recent little moment became another chapter for us?",
+      "options": [
+        "Holding hands",
+        "A movie night",
+        "A school trip",
+        "[Edit option]"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q8",
+      "text": "How long did we hold hands that first time? (Edit if you want this detail included.)",
+      "options": [
+        "7 minutes 43 seconds",
+        "2 minutes",
+        "10 minutes",
+        "[Edit option]"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q9",
+      "text": "And the next day, about how long did we hold hands?",
+      "options": [
+        "14 minutes",
+        "5 minutes",
+        "20 minutes",
+        "[Edit option]"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q10",
+      "text": "What should the ending of this little memory lane be?",
+      "options": [
+        "A huge virtual hug 🫂",
+        "A score report",
+        "A goodbye screen",
+        "A lecture 😭"
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "finalTitle": "And this is our little story… so far.",
+  "finalText": "From one silly little line to the moments we remember — thank you for being part of my story. No score could measure that. ❤️",
+  "hugCaption": "The biggest, warmest virtual hug. 🫂"
+}
